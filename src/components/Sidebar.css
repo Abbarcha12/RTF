@@ -16,7 +16,7 @@
 }
 .primary_sidebar {
   color: #fff;
-  padding: 16px 10px;
+
   background-color: #252e3e;
 }
 .p_sidebar_icons img {
@@ -28,4 +28,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-left: 6px;
+  margin-right: auto;
+  padding: 3px;
+  width: 89%;
+}
+.COLO {
+  background-color: #449EA7 !important;
 }

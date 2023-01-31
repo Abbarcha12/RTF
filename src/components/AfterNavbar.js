@@ -7,7 +7,7 @@ import { makeStyles } from '@mui/styles'
 const useStyles = makeStyles({
  Text1: {
   borderBottom: "2px solid #449EA7",
-  paddingTop: "10px",
+
  }
 })
 function AfterNavbar() {
