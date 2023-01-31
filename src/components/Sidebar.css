@@ -1,0 +1,31 @@
+.side_bars {
+  display: flex;
+}
+.after_nav_links {
+  display: flex;
+  /* width: 210%; */
+  justify-content: space-between;
+  border-bottom: 2px solid #a4a4a4;
+  padding: 10px;
+}
+.after_nav_links2 {
+  display: flex;
+}
+.ActiveClass {
+  color: '#449EA7' !important;
+}
+.primary_sidebar {
+  color: #fff;
+  padding: 16px 10px;
+  background-color: #252e3e;
+}
+.p_sidebar_icons img {
+  width: 33px;
+  height: 33px;
+}
+
+.p_sidebar_icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

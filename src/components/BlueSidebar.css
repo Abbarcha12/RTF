@@ -1,0 +1,25 @@
+.blue_sidebar {
+  height: 100% !important;
+  width: 100%;
+  margin-right: 2rem;
+  margin-top: 10px;
+  padding-top: 10px;
+  background-color: #9ed3d8 !important;
+}
+.sidebar_link {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  color: #4b4b4b !important;
+  padding: 12px 10px;
+  padding-left: 2rem;
+  font-size: 20px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin-right: 10px !important;
+}
+
+.sidebar_link:hover {
+  background-color: #fff;
+  cursor: pointer;
+}

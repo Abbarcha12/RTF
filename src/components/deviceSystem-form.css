@@ -1,0 +1,97 @@
+.DeviceSystem__head-btn:hover {
+  background-color: #2082ab !important;
+}
+.deviceSystem_form-body input:focus {
+  border: none;
+  outline: none;
+}
+.css-zqcytf-MuiButtonGroup-root {
+  width: 100%;
+  background-color: White;
+}
+.DeviceSystem__head-submit-btn:hover {
+  background-color: #41a561 !important;
+}
+
+.css-rz3x8f-MuiGrid-root {
+  margin-top: 0px !important ;
+}
+.vega__header {
+  background-color: #eff3f5;
+  border-top: 5px solid #a0ced6 !important;
+}
+.css-dzaaci-MuiGrid-root {
+  border-top: 5p x solid #eaeaea !important;
+}
+.vega__header h2 {
+  padding: 10px;
+  text-align: center;
+}
+/* .date h4 {
+  margin-right: 90px !important;
+} */
+.css-1633um2-MuiPaper-root {
+  border-radius: 0%;
+  box-shadow: none !important;
+}
+.amin__container {
+  background-color: #eff3f5;
+  width: 100%;
+}
+.css-1geokqn {
+  padding: 0px;
+}
+
+.amin__container p {
+  text-align: start;
+  padding-right: 30px;
+}
+.amin__main {
+  background-color: #eff3f5 !important;
+  display: flex;
+  justify-content: start !important;
+  padding-right: 18px;
+}
+.css-ptmxan-MuiGrid-root > .MuiGrid-item {
+  padding-top: 0px !important;
+}
+.colorr {
+  background-color: #eff3f5 !important;
+  box-shadow: none !important;
+  border-radius: none;
+}
+.css-1auhl2a-MuiPaper-root {
+  padding: 0px !important;
+}
+.css-11ef8mb-MuiPaper-root {
+  box-shadow: none !important;
+}
+
+/* media curies*/
+@media only screen and (max-width: 1050px) {
+  .vega__para h4 {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 995px) and (min-width: 415px) {
+  .vega-text {
+    padding-right: 1rem;
+  }
+  .vega-text h5 {
+    font-size: 10px;
+  }
+  .vega-text h4 {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 415px) {
+  .vega__para h4 {
+    font-size: 9px;
+  }
+  .vega-text h4 {
+    font-size: 9px;
+  }
+  .vega-text h5 {
+    font-size: 8px;
+  }
+}

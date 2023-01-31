@@ -1,0 +1,8 @@
+.IconImage {
+  height: 28px !important;
+}
+@media (max-width: '576px') {
+  .IconImage {
+    height: 20px !important;
+  }
+}
